@@ -1,0 +1,3 @@
+list usb info 
+shell : system_profiler SPUSBDataType
+
